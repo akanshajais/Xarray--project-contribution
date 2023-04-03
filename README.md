@@ -5,7 +5,7 @@ I worked on two issues of xarray project Create diagrammatic representation of x
 ## 1. Subset variable names from nodes #232
 -------------------------------------------------------------------------------
 
-## Contribution link - https://github.com/xarray-contrib/datatree/issues/232#issuecomment-1493940735 **
+## Contribution link - https://github.com/xarray-contrib/datatree/issues/232#issuecomment-1493940735
 
 ![image](https://user-images.githubusercontent.com/85181086/229469624-38883471-aa8a-459a-ab47-4f4071382a65.png)
 
